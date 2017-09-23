@@ -11,6 +11,9 @@
     <body >  
 
         <header>
+            <video autoplay loop class="videobackground">
+                <source src="videos/homeBackVid.mp4" type="video/mp4">
+            </video>
             <div class="navbar">
                 <nav class="navbar">
                 <ul>
