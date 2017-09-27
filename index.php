@@ -23,7 +23,7 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="achievements.php">Achievements</a></li>
                         <li><a href="aspirations.php">Aspirations</a></li>
-                        <li><a href="">About Me</a></li>
+                        <li><a href="aboutme.php">About Me</a></li>
                     </ul>
                 </nav>
             </div>    
