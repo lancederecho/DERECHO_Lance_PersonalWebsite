@@ -5,30 +5,32 @@
         <title>Lance Derecho | Profile</title>
         <link rel="shortcut icon" href="images/title.ico">
         <link rel="stylesheet" type="text/css" href="styles/style.css">
-
     </head>
     
     <body >  
-
-        <header>
+        
+        <div class="background">
             <video autoplay loop class="videobackground">
                 <source src="videos/homeBackVid.mp4" type="video/mp4">
             </video>
+        </div>
+        
+        <header>
             <div class="navbar">
+                <img class="navlogo" alt="logo" src="images/LanceLogoWhite.png"/>
                 <nav class="navbar">
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Achievements</a></li>
-                    <li><a href="">Aspirations</a></li>
-                    <li><a href="">About Me</a></li>
-                </ul>
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Achievements</a></li>
+                        <li><a href="">Aspirations</a></li>
+                        <li><a href="">About Me</a></li>
+                    </ul>
                 </nav>
             </div>    
         </header> 
 
-        <footer>
-            <div class="socialmedia">
-                <nav class="socialmedia">
+        <div class="socialmedia">
+            <nav class="socialmedia">
                 <ul>
                     <li>
                         <a href="http://www.instagram.com/lance_derecho" target="_blank">
@@ -46,9 +48,56 @@
                         </a>
                     </li>
                 </ul>
-                </nav>
-            </div>    
-            </footer> 
+            </nav>
+        </div>    
+
+        <div>
+            
+        <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>        
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>        
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+            <li>Lance Derecho</li>
+        </div>
 
     </body>
 

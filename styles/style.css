@@ -2,11 +2,11 @@ body {
 	margin: 0;
 	font-family: sans-serif;
     font-weight: 400;
-    color: white;
+    color:black;
 }
 
 video.videobackground{
-    position: fixed;
+    position: relative;
     top: 50%;
     left: 50%;
     min-width: 100%;
@@ -23,7 +23,14 @@ header{
 div.navbar {
     width: 90%;
     margin: 0 auto;
-    position: fixed;
+    position: absolute;
+}
+
+.navlogo{
+    float: left;
+    opacity: 0;
+    margin: 0px;
+    padding-top: 10px;
 }
 
 nav.navbar {
@@ -70,17 +77,12 @@ nav.navbar a:hover::before {
     width: 100%;
 }
 
-
-footer{
-    background: #222;
-}
-
 div.socialmedia {
     width: 5%;
     height: 100%;
     margin-top: 15%;
     margin-left: 95%;
-    position: fixed;
+    position: absolute;
 }
 
 nav.socialmedia {
