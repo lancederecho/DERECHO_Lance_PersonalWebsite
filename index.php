@@ -49,54 +49,6 @@
                     </li>
                 </ul>
             </nav>
-        </div>    
-
-        <div>
-            
-        <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>        
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>        
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
-            <li>Lance Derecho</li>
         </div>
 
     </body>

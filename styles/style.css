@@ -28,9 +28,9 @@ div.navbar {
 
 .navlogo{
     float: left;
-    opacity: 0;
+    opacity: .5;
     margin: 0px;
-    padding-top: 10px;
+    padding-top: 0px;
 }
 
 nav.navbar {
