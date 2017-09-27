@@ -21,7 +21,7 @@
                 <nav class="navbar">
                     <ul>
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="">Achievements</a></li>
+                        <li><a href="achievements.php">Achievements</a></li>
                         <li><a href="">Aspirations</a></li>
                         <li><a href="">About Me</a></li>
                     </ul>
