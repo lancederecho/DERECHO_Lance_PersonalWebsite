@@ -18,7 +18,7 @@
         <header>
             <div class="navbar">
                 <a class="navbarlogo" href="index.php">
-                    <img alt="logo" src="images/LanceLogoWhite2.png"/>
+                    <img alt="logo" src="images/LanceLogo2.png"/>
                 </a>    
                 <nav class="navbar">
                     <ul>
