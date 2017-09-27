@@ -20,7 +20,7 @@
                 <img class="navlogo" alt="logo" src="images/LanceLogoWhite.png"/>
                 <nav class="navbar">
                     <ul>
-                        <li><a href="">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="">Achievements</a></li>
                         <li><a href="">Aspirations</a></li>
                         <li><a href="">About Me</a></li>
