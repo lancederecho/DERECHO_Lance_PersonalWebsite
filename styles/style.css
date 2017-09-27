@@ -6,7 +6,7 @@ body {
 }
 
 video.videobackground{
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     min-width: 100%;
@@ -21,10 +21,10 @@ header{
 }
 
 div.navbar {
-    width: 95%;
+    width: 94%;
     height: 10%;
     margin: 0 auto;
-    position: absolute;
+    position: fixed;
 }
 
 .navbarlogo{
@@ -86,7 +86,8 @@ div.socialmedia {
     height: 100%;
     margin-top: 15%;
     margin-left: 95%;
-    position: absolute;
+    margin-right: 10%;
+    position: fixed;
 }
 
 nav.socialmedia {
