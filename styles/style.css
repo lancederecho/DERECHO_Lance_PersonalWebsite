@@ -22,18 +22,18 @@ header{
 
 div.navbar {
     width: 90%;
+    height: 10%;
     margin: 0 auto;
     position: absolute;
 }
 
-.navlogo{
+.navbarlogo{
     float: left;
     opacity: .5;
-    margin: 0px;
-    padding-top: 0px;
+    padding-left: 100px;
 }
 
-.navlogo:hover {
+.navbarlogo:hover {
     opacity: 1;
 }
 nav.navbar {
