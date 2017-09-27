@@ -33,6 +33,9 @@ div.navbar {
     padding-top: 0px;
 }
 
+.navlogo:hover {
+    opacity: 1;
+}
 nav.navbar {
     float: right;
 }
