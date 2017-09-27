@@ -21,7 +21,7 @@ header{
 }
 
 div.navbar {
-    width: 90%;
+    width: 95%;
     height: 10%;
     margin: 0 auto;
     position: absolute;
@@ -30,8 +30,8 @@ div.navbar {
 .navbarlogo{
     float: left;
     opacity: .70;
-    padding-left: 70px;
-    padding-top: 15px;
+    padding-left: 90px;
+    padding-top: 14px;
 }
 
 .navbarlogo:hover {
