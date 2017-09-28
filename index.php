@@ -8,7 +8,7 @@
     </head>
     
     <body >  
-        
+
         <div class="background">
             <video autoplay loop class="videobackground">
                 <source src="videos/homeBackVid.mp4" type="video/mp4">

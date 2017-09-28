@@ -37,6 +37,19 @@ div.navbar {
 .navbarlogo:hover {
     opacity: 1;
 }
+
+.navbarlogo::before {
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: white;
+  
+    position: absolute;
+    top: 0;
+    width: 0%;
+    transition: all ease-in-out 300ms;
+}
+
 nav.navbar {
     float: right;
 }
