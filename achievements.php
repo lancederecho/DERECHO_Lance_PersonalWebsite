@@ -9,7 +9,7 @@
         
         <header>
             <div class="navbarachievements">    
-                <a class="navbarlogo" href="index.php">
+                <a class="navbarlogoachievements" href="index.php">
                     <img alt="logo" src="images/LanceLogo2.png"/>
                 </a>
                 <nav class="navbarachievements">
