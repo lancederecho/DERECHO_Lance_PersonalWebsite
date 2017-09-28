@@ -7,7 +7,10 @@
 
     <body>
 
-            <div class="navbaraspirations">    
+            <div class="navbaraspirations">   
+                <a class="navbarlogoaspirations" href="index.php">
+                    <img alt="logo" src="images/LanceLogo2.png"/>
+                </a> 
                 <nav class="navbaraspirations">
                     <ul>
                         <li><a href="index.php">Home</a></li>
