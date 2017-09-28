@@ -6,7 +6,18 @@
     </head>
 
     <body>
-        
+
+        <div class="navbaraboutme">   
+            <nav class="navbaraboutme">
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="achievements.php">Achievements</a></li>
+                    <li><a href="aspirations.php">Aspirations</a></li>
+                    <li><a href="aboutme.php">About Me</a></li>
+                </ul>
+            </nav>
+        </div>  
+
     </body>
 
 </html>
