@@ -8,11 +8,11 @@
     <body>
         
         <header>
-            <div class="navbarachievements">    
+            <div class="navbar">    
                 <a class="navbarlogoachievements" href="index.php">
                     <img alt="logo" src="images/LanceLogo2.png"/>
                 </a>
-                <nav class="navbarachievements">
+                <nav class="navbar">
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="achievements.php">Achievements</a></li>
