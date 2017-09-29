@@ -20,25 +20,25 @@ header{
     background: #222;
 }
 
-div.navbar {
+/* div.navbar {
     width: 94%;
     height: 10%;
     margin: 0 auto;
     position: fixed;
-}
+} */
 
-.navbarlogo{
+/* .navbarlogo{
     float: left;
     opacity: .65;
     padding-left: 9%;
     padding-top: 14px;
-}
+} */
 
-.navbarlogo:hover {
+/* .navbarlogo:hover {
     opacity: 1;
-}
+} */
 
-.navbarlogo::before {
+/* .navbarlogo::before {
     content: '';
     display: block;
     height: 5px;
@@ -49,8 +49,8 @@ div.navbar {
     width: 0%;
     transition: all ease-in-out 300ms;
 }
-
-nav.navbar {
+ */
+/* nav.navbar {
     float: right;
 }
 
@@ -128,4 +128,4 @@ img.socialpic {
 
 nav.socialmedia img:hover {
     opacity: 1;
-}
+} */
