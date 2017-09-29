@@ -5,6 +5,7 @@
         <title>Lance Derecho | Profile</title>
         <link rel="shortcut icon" href="images/title.ico">
         <link rel="stylesheet" type="text/css" href="styles/style.css">
+        <link rel="stylesheet" type="text/css" href="styles/navbarstyle.css">
     </head>
     
     <body >  
