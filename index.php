@@ -33,27 +33,29 @@
             </div>    
         </header> 
 
-        <div class="socialmedia">
-            <nav class="socialmedia">
-                <ul>
-                    <li>
-                        <a href="http://www.instagram.com/lance_derecho" target="_blank">
-                            <img class="socialpic" src="images/instagram.ico"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.facebook.com/lderecho12" target="_blank">
-                            <img class="socialpic" src="images/facebook.ico"/>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.twitter.com/lance_derecho" target="_blank">
-                            <img class="socialpic" src="images/twitter.ico"/>
-                        </a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
+        <aside>
+            <div class="socialmedia">
+                <nav class="socialmedia">
+                    <ul>
+                        <li>
+                            <a href="http://www.instagram.com/lance_derecho" target="_blank">
+                                <img class="socialpic" src="images/instagram.ico"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.facebook.com/lderecho12" target="_blank">
+                                <img class="socialpic" src="images/facebook.ico"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.twitter.com/lance_derecho" target="_blank">
+                                <img class="socialpic" src="images/twitter.ico"/>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
 
     </body>
 
