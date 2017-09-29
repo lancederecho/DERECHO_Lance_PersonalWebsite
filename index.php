@@ -6,6 +6,7 @@
         <link rel="shortcut icon" href="images/title.ico">
         <link rel="stylesheet" type="text/css" href="styles/style.css">
         <link rel="stylesheet" type="text/css" href="styles/navbarstyle.css">
+        <link rel="stylesheet" type="text/css" href="styles/socialmediastyle.css">
     </head>
     
     <body >  
