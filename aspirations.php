@@ -7,11 +7,11 @@
 
     <body>
 
-        <div class="navbaraspirations">   
-            <a class="navbarlogoaspirations" href="index.php">
+        <div class="navbar">   
+            <a class="navbarlogo" href="index.php">
                 <img alt="logo" src="images/LanceLogo2.png"/>
             </a> 
-            <nav class="navbaraspirations">
+            <nav class="navbar">
                 <ul>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="achievements.php">Achievements</a></li>
