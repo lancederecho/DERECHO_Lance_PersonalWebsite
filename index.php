@@ -24,10 +24,10 @@
                 </a>    
                 <nav class="navbar">
                     <ul>
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="achievements.php">Achievements</a></li>
-                        <li><a href="aspirations.php">Aspirations</a></li>
-                        <li><a href="aboutme.php">About Me</a></li>
+                        <li class="home"><a href="index.php">Home</a></li>
+                        <li class="achievements"><a href="achievements.php">Achievements</a></li>
+                        <li class="aspirations"><a href="aspirations.php">Aspirations</a></li>
+                        <li class="aboutme"><a href="aboutme.php">About Me</a></li>
                     </ul>
                 </nav>
             </div>    
