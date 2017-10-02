@@ -8,13 +8,13 @@
         <link rel="stylesheet" type="text/css" href="styles/socialmediastyle.css">
     </head>
 
-    <body>
+    <body> 
 
         <div class="backgroundaboutme">
-            <!-- video autoplay loop class="videobackgroundaboutme">
+            <video autoplay loop class="videobackgroundaboutme">
                 <source src="videos/homeBackVid.mp4" type="video/mp4">
-            </video> -->
-        </div>  
+            </video>
+        </div> 
 
         <header>
             <div class="navbar">   
@@ -55,6 +55,13 @@
                 </nav>
             </div>
         </aside>          
+
+        <div class="profpic">
+        </div>
+
+        <div class="contentaboutme">
+
+        </div>
 
     </body>
 
