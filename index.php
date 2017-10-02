@@ -59,8 +59,10 @@
 
         <div class="content">
                 <nav class="content">
-                        <li>WELCOME</li>
-                        <br><li>TO</li></br>
+                    <ul>
+                        <center><li class="welcome">WELCOME</li></center>
+                        <center><li class="to">TO</li></center>
+                    </ul>    
                 </nav>
         </div>
 
