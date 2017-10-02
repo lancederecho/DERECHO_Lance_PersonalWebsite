@@ -10,6 +10,12 @@
 
     <body>
 
+        <div class="backgroundaboutme">
+            <!-- video autoplay loop class="videobackgroundaboutme">
+                <source src="videos/homeBackVid.mp4" type="video/mp4">
+            </video> -->
+        </div>  
+
         <header>
             <div class="navbar">   
                 <a class="navbarlogo" href="index.php">
@@ -48,7 +54,7 @@
                     </ul>
                 </nav>
             </div>
-        </aside>            
+        </aside>          
 
     </body>
 
