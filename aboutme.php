@@ -32,7 +32,7 @@
             </div>  
         </header>
 
-        <aside>
+<!--         <aside>
             <div class="socialmedia">
                 <nav class="socialmedia">
                     <ul>
@@ -54,7 +54,7 @@
                     </ul>
                 </nav>
             </div>
-        </aside>          
+        </aside>    -->       
 
         <div class="profpic">
         </div>
