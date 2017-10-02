@@ -59,10 +59,13 @@
 
         <div class="content">
                 <nav class="content">
-                    <ul>
+                    <ul class="content">
                         <center><li class="welcome">WELCOME</li></center>
-                        <center><li class="to">TO</li></center>
-                    </ul>    
+                        <center><li class="to">TO</li></center>                          
+                    </ul>  
+                    <ul class="lancederecho">
+                        <center><a href="aboutme.php" class="lancederecho">LANCE DERECHO</a></center> 
+                    </ul>
                 </nav>
         </div>
 
