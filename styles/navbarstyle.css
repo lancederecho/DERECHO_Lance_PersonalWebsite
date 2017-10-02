@@ -1,16 +1,40 @@
 div.navbar {
-    width: 94%;
-    height: 10%;
+    width: 100%;
+    height: 9%;
     margin: 0 auto;
     position: fixed;
     z-index: 10;
+    background: transparent; 
+    transition: all ease .8s;
 }
+
+div.navbar.shrink {
+    height: 6%;
+    transition: all ease .8s;
+    background: #222; 
+}
+  
+div.navbar.shrink .navbarlogo {
+    padding-top: 8px;
+    transition: all ease .8s;
+} 
+
+div.navbar.shrink li {
+    padding-top: 15px;
+    transition: all ease .8s;
+} 
+
+div.navbar.shrink a {
+    font-size: 11;
+    transition: all ease .8s;
+} 
 
 .navbarlogo{
     float: left;
     opacity: .65;
     padding-left: 9%;
-    padding-top: 11px;
+    padding-top: 16px;
+    transition: all ease .8s;
 }
 
 .navbarlogo:hover {
@@ -35,11 +59,12 @@ nav.navbar {
 
 nav.navbar ul {
     margin: 0;
-    padding: 0;
+    padding-right: 80px;
     list-style: none;
 }
 
 nav.navbar li {
+    transition: all ease .8s;
     display: inline-block;
     margin-left: 70px;
     padding-top: 23px;  
@@ -47,6 +72,7 @@ nav.navbar li {
 }
 
 nav.navbar a {
+    transition: all ease .8s;
     color: #BEBEBE;
     text-decoration: none;
     text-transform: uppercase;

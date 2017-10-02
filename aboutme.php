@@ -2,6 +2,8 @@
 
     <head>
         <title>Lance Derecho | About Me</title>
+        <script src="js/jquery.js"></script>
+        <script src="js/navscroll.js"></script>
         <link rel="shortcut icon" href="images/title.ico">
         <link rel="stylesheet" type="text/css" href="styles/aboutmestyle.css">
         <link rel="stylesheet" type="text/css" href="styles/navbarstyle.css">
@@ -57,6 +59,7 @@
         </aside>    -->       
 
         <div class="profpic">
+            <img class="profpic" src="images/lancepic.jpg"/>
         </div>
 
         <div class="contentaboutme">

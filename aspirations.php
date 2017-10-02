@@ -2,6 +2,8 @@
 
     <head>
         <title>Lance Derecho | Aspirations</title>
+        <script src="js/jquery.js"></script>
+        <script src="js/navscroll.js"></script>
         <link rel="shortcut icon" href="images/title.ico">
         <link rel="stylesheet" type="text/css" href="styles/aspirationsstyle.css">
         <link rel="stylesheet" type="text/css" href="styles/navbarstyle.css">
