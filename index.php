@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="styles/socialmediastyle.css">
     </head>
     
-    <body >  
+    <body >     
 
         <div class="background">
             <video autoplay loop class="videobackground">
@@ -30,7 +30,7 @@
                         <li class="aboutme"><a href="aboutme.php">About Me</a></li>
                     </ul>
                 </nav>
-            </div>    
+            </div> 
         </header> 
 
         <aside>
@@ -56,6 +56,13 @@
                 </nav>
             </div>
         </aside>
+
+        <div class="content">
+                <nav class="content">
+                        <li>WELCOME</li>
+                        <br><li>TO</li></br>
+                </nav>
+        </div>
 
     </body>
 
