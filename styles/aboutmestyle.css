@@ -248,7 +248,7 @@ div.myimages:hover{
     box-shadow: 0 0 10px  rgba(0,0,0,0.6);
 }
 
-@-webkit-keyframes xfade{
+/* @-webkit-keyframes xfade{
     0% {
         opacity: 1;
     }
@@ -264,7 +264,7 @@ div.myimages:hover{
     100% {
         opacity:1;
     }
-}
+} */
 
 @keyframes xfade{
     0% {
@@ -285,76 +285,76 @@ div.myimages:hover{
 }
 
 .myimages  img:nth-child(15){
-    -webkit-animation: xfade 75s 0s infinite;
+/*     -webkit-animation: xfade 75s 0s infinite; */
     animation: xfade 75s 0s infinite;
 }
 
 .myimages  img:nth-child(14){
-    -webkit-animation: xfade 75s 5s infinite;
+/*     -webkit-animation: xfade 75s 5s infinite; */
     animation: xfade 75s 5s infinite;
 }
 
 .myimages  img:nth-child(13){
-    -webkit-animation: xfade 75s 10s infinite;
+/*     -webkit-animation: xfade 75s 10s infinite; */
     animation: xfade 75s 10s infinite;
 }
 
 .myimages  img:nth-child(12){
-    -webkit-animation: xfade 75s 15s infinite;
+/*     -webkit-animation: xfade 75s 15s infinite; */
     animation: xfade 75s 15s infinite;
 }
 
 .myimages  img:nth-child(11){
-    -webkit-animation: xfade 75s 20s infinite;
+/*     -webkit-animation: xfade 75s 20s infinite; */
     animation: xfade 75s 20s infinite;
 }
 
 .myimages  img:nth-child(10){
-    -webkit-animation: xfade 75s 25s infinite;
+/*     -webkit-animation: xfade 75s 25s infinite; */
     animation: xfade 75s 25s infinite;
 }
 
 .myimages  img:nth-child(9){
-    -webkit-animation: xfade 75s 30s infinite;
+/*     -webkit-animation: xfade 75s 30s infinite; */
     animation: xfade 75s 30s infinite;
 }
 
 .myimages  img:nth-child(8){
-    -webkit-animation: xfade 75s 35s infinite;
+/*     -webkit-animation: xfade 75s 35s infinite; */
     animation: xfade 75s 35s infinite;
 }
 
 .myimages  img:nth-child(7){
-    -webkit-animation: xfade 75s 40s infinite;
+/*     -webkit-animation: xfade 75s 40s infinite; */
     animation: xfade 75s 40s infinite;
 }
 
 .myimages  img:nth-child(6){
-    -webkit-animation: xfade 75s 45s infinite;
+/*     -webkit-animation: xfade 75s 45s infinite; */
     animation: xfade 75s 45s infinite;
 }
 
 .myimages  img:nth-child(5){
-    -webkit-animation: xfade 75s 50s infinite;
+/*     -webkit-animation: xfade 75s 50s infinite; */
     animation: xfade 75s 50s infinite;
 }
 
 .myimages  img:nth-child(4){
-    -webkit-animation: xfade 75s 55s infinite;
+/*     -webkit-animation: xfade 75s 55s infinite; */
     animation: xfade 75s 55s infinite;
 }
 
 .myimages  img:nth-child(3){
-    -webkit-animation: xfade 75s 60s infinite;
+/*     -webkit-animation: xfade 75s 60s infinite; */
     animation: xfade 75s 60s infinite;
 }
 
 .myimages  img:nth-child(2){
-    -webkit-animation: xfade 75s 65s infinite;
+/*     -webkit-animation: xfade 75s 65s infinite; */
     animation: xfade 75s 65s infinite;
 }
 
 .myimages  img:nth-child(1){
-    -webkit-animation: xfade 75s 70s infinite;
+/*     -webkit-animation: xfade 75s 70s infinite; */
     animation: xfade 75s 70s infinite;
 }
