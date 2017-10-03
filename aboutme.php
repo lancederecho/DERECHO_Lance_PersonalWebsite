@@ -166,6 +166,30 @@
 
                 </p>  
             </div>
+            <div class="quotesandimages">
+                <a href="aboutme.php" class="quotesandimages">Quotes and Images</a>
+            </div>
+            <div class="myimages">
+                <a href="http://www.instagram.com/the_wulfric" target="_blank">
+                    <img src="images/slideshow/1.png"/>
+                    <img src="images/slideshow/2.jpg"/>
+                    <img src="images/slideshow/3.jpg"/>
+                    <img src="images/slideshow/4.jpg"/>
+                    <img src="images/slideshow/5.png"/>
+                    <img src="images/slideshow/6.png"/>
+                    <img src="images/slideshow/7.jpg"/>
+                    <img src="images/slideshow/8.jpg"/>
+                    <img src="images/slideshow/9.png"/>
+                    <img src="images/slideshow/10.png"/>
+                    <img src="images/slideshow/11.png"/>
+                    <img src="images/slideshow/12.png"/>
+                    <img src="images/slideshow/13.png"/>
+                    <img src="images/slideshow/14.png"/>
+                    <img src="images/slideshow/15.png"/>  
+                </a>
+                
+         
+            </div>
         </div>
 
     </body>
