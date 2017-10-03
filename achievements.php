@@ -142,10 +142,9 @@
                     <img src="images/achievements/seventh/3.jpg"/>
                 </div>
                 <pa>
-                    Reading Lots of Books: Some years ago, I set a goal to read one book every month. I skipped a lot of months
-                    but still ended reading lots of books and learned lots of things from the books that I read. It takes 
-                    a lot discipline and self-control to read a book ,so because of that reason, I can consider it a great 
-                    achievement on my part. Not just finishing lots of books, but learning a lot of things.
+                    First Steps on Learning Visual Arts: Being able to draw, to paint, etc. has my goal some years ago.
+                    And taking steps onto your goal is considered an achievement. Adding little by little achievements, 
+                    you will reach your desired goal. So this is a big step and a big achievement for me.
                 </pa>
             </div>
         </div>
