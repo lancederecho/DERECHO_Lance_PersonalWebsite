@@ -63,7 +63,39 @@
         </div>
 
         <div class="contentaboutme">
-
+            <div class="contactinfo">
+                <h5>
+                    Contact info
+                </h5>
+                <ul>
+                    <li>Phone number:</li>
+                    <li><a href="tel:639-280-8080">+639282608080</a></li>
+                    <br></br>
+                    <li>Email address:</li>
+                    <li><a href="mailto:lderecho12@gmail.com">lderecho12@gmai.com</a></li>
+                    <br></br>
+                    <li>Facebook:</li>
+                    <li><a href="http://www.facebook.com/lderecho12" target="_blank">username: @lderecho12</a></li>
+                    <br></br>
+                    <li>Instagram:</li>
+                    <li><a href="http://www.instagram.com/lance_derecho" target="_blank">username: @lance_derecho</a></li>
+                    <br></br>
+                    <li>Twitter:</li>
+                    <li><a href="http://www.twitter.com/lance_derecho" target="_blank">username: @lance_derecho</a></li>
+                    <br></br>
+                </ul>
+            </div>
+            <div class="extraimages">
+                <h5>
+                    My images:
+                </h5>
+            </div>
+            <div class="profname">
+                <a href="aboutme.php" class="profname">Lance Derecho</a>
+            </div>
+            <div class="infoaboutme">
+                info:
+            </div>
         </div>
 
     </body>
