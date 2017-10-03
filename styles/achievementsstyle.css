@@ -1,5 +1,44 @@
 body {
-    background-color: #222;
     margin: 0;
 	font-family: sans-serif;
+}
+
+video.videobackgroundachievements{
+    width: 100%;
+    position: fixed;   
+}
+
+div.achievementsdeclaration{
+    left: 38%;
+    top: 11%;
+    position: absolute;
+    width: 24%;
+    height: 6%;
+    text-align: center;
+}
+
+div.achievementsdeclaration a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 38;
+    color: white;
+    opacity: .75;
+}
+
+div.achievementsdeclaration a:hover{   
+    box-shadow: 0 0 2px  rgba(0,0,0,0.6);
+    transition: all ease-in-out 300ms;
+    padding: 10px;
+    border: .5px solid white;
+    opacity: 1;
+}
+
+div.achievementscontents{
+    border-radius: 3px;
+    background-color: #F5F5F5;
+    left: 5%;
+    top: 20%;
+    height: 200%;
+    width: 90%;
+    position: absolute;
 }

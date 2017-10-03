@@ -12,6 +12,12 @@
 
     <body>
 
+        <div class="backgroundaspirations">
+            <video autoplay loop class="videobackgroundaspirations">
+                <source src="videos/homeBackVid.mp4" type="video/mp4">
+            </video>
+        </div> 
+
         <header>
             <div class="navbar">   
                 <a class="navbarlogo" href="aboutme.php">
@@ -28,7 +34,7 @@
             </div>    
         </header>
 
-        <aside>
+<!--         <aside>
             <div class="socialmedia">
                 <nav class="socialmedia">
                     <ul>
@@ -50,8 +56,16 @@
                     </ul>
                 </nav>
             </div>
-        </aside>
-        
+        </aside> -->
+
+        <div class="aspirationsdeclaration">
+            <a href="aspirations.php">ASPIRATIONS</a>
+        </div>
+
+        <div class="aspirationscontents">
+
+        </div>
+
     </body>
 
 </html>

@@ -29,6 +29,7 @@ div.contentaboutme{
     left: 1%;
     background-color: #F5F5F5;
     position: absolute;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
 }
 
 img.profpic{

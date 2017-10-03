@@ -11,6 +11,12 @@
     </head>
 
     <body>
+
+        <div class="backgroundachievements">
+            <video autoplay loop class="videobackgroundachievements">
+                <source src="videos/homeBackVid.mp4" type="video/mp4">
+            </video>
+        </div> 
         
         <header>
             <div class="navbar">    
@@ -28,7 +34,7 @@
             </div>    
         </header> 
 
-        <aside>
+<!--         <aside>
             <div class="socialmedia">
                 <nav class="socialmedia">
                     <ul>
@@ -50,7 +56,15 @@
                     </ul>
                 </nav>
             </div>
-        </aside>
+        </aside> -->
+
+        <div class="achievementsdeclaration">
+            <a href="achievements.php">ACHIEVEMENTS</a>
+        </div>
+
+        <div class="achievementscontents">
+
+        </div>
 
     </body>
 
