@@ -85,16 +85,86 @@
                     <br></br>
                 </ul>
             </div>
-            <div class="extraimages">
+            <div class="addressinfo">
                 <h5>
-                    My images:
+                    Address info
                 </h5>
+                <ul>
+                    Main:
+                    <li>Davao City</li>
+                    <br></br>
+                    Other:
+                    <li>Sta. Cruz, Davao del Sur</li>
+                    <br></br>
+                </ul>
+            </div>
+            <div class="skills">
+                <h5>
+                    Skills
+                </h5>
+                <ul>
+                    Self-Confidence
+                    <br></br>
+                    Communication
+                    <br></br>
+                    Multitasking
+                    <br></br>
+                    Problem-solving Abilities
+                    <br></br>
+                    Leading
+                    <br></br>
+                    Organization
+                    <br></br>
+                    Technical Skills
+                    <br></br>
+                    Interpersonal Skills
+                    <br></br>
+                    Initiative
+                    <br></br>
+                    Dependability
+                    <br></br>
+                    Prioritizing
+                    <br></br>
+                    Handling Pressure
+                    <br></br>
+                    Programming
+                    <li>Java, Html, Css, Php</li>
+                    <br>
+                    Playing     Sports
+                    <li>Tennis, Basketball, etc.</li>
+                    <br>
+                    Playing Musical Instruments
+                    <li>Alto Sax, Harmonica, Drums, etc.</li>
+                    <br>
+                </ul>
             </div>
             <div class="profname">
                 <a href="aboutme.php" class="profname">Lance Derecho</a>
             </div>
             <div class="infoaboutme">
-                info:
+                <p class="infoaboutme">
+                    My name is Lance Derecho. I am 20 years old. I was born on the 21st day of December 1996. 
+                    I was born in Davao City but I grew up in my hometown. I graduated elementary and highschool
+                    in my said hometown. Then moved to Davao for my college education. 
+                </p>
+                <p class="infoaboutme">
+                    I am currently a student in the University of 
+                    Southeastern Philippines(USeP). On 2013, I took up Bachelor of Science in 
+                    Electronics and Communication Engineering(BSECE) but didn't last long there because
+                    I was not very interested in that course, that I do not have enough passion fot it. 
+                    After two years in BSECE, I decided to shift to another course. It came up to me, that maybe 
+                    I will be more interested in the Bachelor of Science in Computer Science(BSCS). Inside my one year 
+                    in BSCS I got so interested in it and had an unclear passion for it. 
+                    And now, my passion for the course is paralleled in my growing interest for it, daily.
+                </p>
+                <p class="infoaboutme">
+                     I believe that I will be successful because I have found what I wanted to do in life. And am 
+                     currently doing what I want and am doing a good job at it. In this situation, I have to define
+                     success. I have looked for the best possible definition of it and here is what I found:
+                    "Success is the progressive realization of a worthy ideal". This is the reason I live life 
+                    and the reason I do what I want to do everytime. 
+
+                </p>  
             </div>
         </div>
 
