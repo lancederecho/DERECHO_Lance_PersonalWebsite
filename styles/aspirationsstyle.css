@@ -34,11 +34,287 @@ div.aspirationsdeclaration a:hover{
 }
 
 div.aspirationscontents{
-    border-radius: 3px;
+    border-radius: 7px;
     background-color: #F5F5F5;
     left: 5%;
     top: 20%;
-    height: 200%;
+    bottom: 0%;
+    height: 485%;
     width: 90%;
     position: absolute;
+}
+
+pa{
+    position: absolute;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14;
+    color: #2E2E2E;
+    text-align: center;
+    text-indent: 50px;
+    margin-top: 45%;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+div.firstaspirations{
+    top: 50px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.firstimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.firstimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+div.secondaspirations{
+    top: 510px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.secondimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.secondimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+div.thirdaspirations{
+    top: 970px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.thirdimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.thirdimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+div.fourthaspirations{
+    top: 1430px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.fourthimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.fourthimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+div.fifthaspirations{
+    top: 1890px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.fifthimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.fifthimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+div.sixthaspirations{
+    top: 2350px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.sixthimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.sixthimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+
+div.seventhaspirations{
+    top: 2810px;
+    left: 15%;
+    position: absolute;
+    height: 450px;
+    width: 70%;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+}
+
+div.seventhimages{
+    box-shadow: 0 0 1px  rgba(0,0,0,0.6);
+    background: black;
+    border-radius: 7px;
+    height: 80%;
+    width: 98%;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+}
+
+div.seventhimages img{
+    border: 2px solid white;
+    border-radius: 7px;
+    position: absolute;
+    width: 100%;;
+    height: 100%;
+}
+
+/* @-webkit-keyframes xfade{
+    0% {
+        opacity: 1;
+    }
+    33% {
+        opacity:1;
+    }
+    58% {
+        opacity:0;
+    }
+    75% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+ */
+@keyframes xfade{
+    0% {
+        opacity: 1;
+    }
+    33% {
+        opacity:1;
+    }
+    58% {
+        opacity:0;
+    }
+    75% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+img:nth-child(3){
+/*     -webkit-animation: xfade 24s 0s infinite; */
+    animation: xfade 24s 0s infinite;
+}
+
+img:nth-child(2){
+/*     -webkit-animation: xfade 24s 8s infinite; */
+    animation: xfade 24s 8s infinite;
+}
+
+img:nth-child(1){
+/*     -webkit-animation: xfade 24s 16s infinite; */
+    animation: xfade 24s 16s infinite;
 }

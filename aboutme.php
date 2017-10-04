@@ -59,7 +59,7 @@
         </aside>    -->       
 
         <div class="profpic">
-            <img class="profpic" src="images/lancepic.jpg"/>
+            <img class="profpic" title="Lance Derecho" src="images/lancepic.jpg"/>
         </div>
 
         <div class="contentaboutme">
